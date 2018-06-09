@@ -20,4 +20,4 @@
 .pydevproject
 .scala_dependencies
 .settings
-.target/
+target
